@@ -1,6 +1,6 @@
 import header from "./header.js"
-import about from "./about.js"
-import foodMenu from "./foodMenu.js"
+import about from "./about_us.js"
+import foodMenu from "./food.js"
 import location from "./location.js"
 
 header()
