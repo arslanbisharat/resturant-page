@@ -13,8 +13,16 @@ This is a Simple Javascript project where I created aresturant website.
 [Live Demo Link](https://rawcdn.githack.com/arslanbisharat/resturant-page/ccbfb44f65e0ab73f2b31a8fd3e13a8a377ad023/tictactoe.html)
 
 ## Local Host
-In order to play this game clone this repo and open tictactoe.html in your desiered browser
+Clone this repo and open tictactoe.html in your desiered browser
 
+**OR**
+-Open your Browser
+
+-Type this
+
+>loaclhost:8080
+
+All set.
 
 ## Author
 
