@@ -1,7 +1,7 @@
 export default function foodMenu() {
 
     const products = ['HalwaPuri', 'Biryani', 'Chicken Karahi', 'Lassi', 'Drinks', 'Desserts']
-    const productsUrls = ['images/HalwaPuri.jpeg', 'images/Biryani.jpeg', 'images/Chicken.jpeg', 'images/Lassi.jpg', 'images/Drinks.jpg', 'images/dessert.jpeg']
+    const productsUrls = ['images/Halwapuri.jpeg', 'images/biryani.jpeg', 'images/chicken.jpeg', 'images/dessert.jpeg', 'images/drinks.jpg', 'images/lassi.jpg']
 
 
     const menuSelected = document.getElementById('menu')
