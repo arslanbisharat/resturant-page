@@ -1,7 +1,7 @@
 # resturant-page
 This is a project in JAVASCRIPT
 
-![Gif](chrome-capture (2).gif)
+![Gif](chrome-capture(2).gif)
 
 [Live Version](https://rawcdn.githack.com/arslanbisharat/resturant-page/d1d896b808b96b519260e4624774d97a65eb1bd7/dist/index.html)
 
